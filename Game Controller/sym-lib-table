@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sparkfun_pro_micro")(type "KiCad")(uri "${KIPRJMOD}/sparkfun_pro_micro.kicad_sym")(options "")(descr ""))
+  (lib (name "COM-09032")(type "KiCad")(uri "${KIPRJMOD}/COM-09032.kicad_sym")(options "")(descr ""))
+  (lib (name "PB400EEQR1BLK")(type "KiCad")(uri "${KIPRJMOD}/Bumper/PB400EEQR1BLK/PB400EEQR1BLK.kicad_sym")(options "")(descr ""))
+)
